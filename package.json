@@ -1,0 +1,12 @@
+{
+	"name": "com.jroynoel.animator2d",
+	"version": "1.0.0",
+	"displayName": "Animator2D",
+	"description": "Easily use 2D animations without all the setup in an animation controller.",
+	"unity": "2020.3",
+	"author": {
+		"name": "Jonathan Roy-Noel",
+		"email": "jonathan.roynoel@gmail.com",
+		"url": "https://www.github.com/jonathanrn"
+	}
+}
