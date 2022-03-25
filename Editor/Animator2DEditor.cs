@@ -6,7 +6,7 @@ using UnityEngine;
 [CustomEditor(typeof(Animator2D))]
 public class Animator2DEditor : Editor
 {
-    private static string path = "Assets/Scripts/Enums";
+    private static string path = "Assets/Generated/Enums";
 
 	public override void OnInspectorGUI()
 	{
