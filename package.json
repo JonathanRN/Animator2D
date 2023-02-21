@@ -1,6 +1,6 @@
 {
 	"name": "com.jroynoel.animator2d",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"displayName": "Animator2D",
 	"description": "Easily use 2D animations without all the setup in an animation controller.",
 	"unity": "2020.3",
